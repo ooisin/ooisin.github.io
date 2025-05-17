@@ -1,18 +1,10 @@
 ---
 layout: home
-title: Welcome to My Website
+title: ooisin 
 ---
-
-# Welcome to My Website
-
-This is my personal website where I share my thoughts, projects, and experiences.
-
-## Recent Posts
-
-{% for post in site.posts limit:3 %}
-* [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
-
-## About Me
-
-I'm passionate about technology and sharing knowledge. Feel free to [contact me](/contact) or check out my [projects](/projects).
+ 
+Ten thousand trolls hard as rock cold as ice \\
+Oh, they ran when I rose to face them \\
+Ten hungry waves they swallowed my ship \\
+Oh, I steadily walked home \\
+(And I only got wet on my feet) \\

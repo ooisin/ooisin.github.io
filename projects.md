@@ -1,24 +1,13 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 ---
 
-# My Projects
+# Mixed bag
 
-Here are some of the projects I've worked on:
+## Matrix Multiplication 
 
-## Project One
+Speed!
 
-Description of your first project. You can include links, images, and code snippets.
-
-```python
-def hello_world():
-    print("Hello, World!")
-```
-
-## Project Two
-
-Description of your second project with details about technologies used and challenges overcome.
-
-[View on GitHub](https://github.com/yourusername/project-two)
+[View on GitHub](https://github.com/ooisin/matmul_pthreads)
