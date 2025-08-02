@@ -4,10 +4,6 @@ title: projects
 permalink: /projects/
 ---
 
-# Mixed bag
 
-## Matrix Multiplication 
-
-Speed!
-
-[View on GitHub](https://github.com/ooisin/matmul_pthreads)
+## MPI Pairwise Computation
+[View on GitHub](https://github.com/ooisin/mpi_pairwise)
