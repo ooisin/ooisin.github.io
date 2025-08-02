@@ -21,7 +21,7 @@
 title: ooisin 
 email: gleam@oisin.sh 
 description: >- # this means to ignore newlines until "baseurl:"
-  Brain (core) dump
+  brain (core) dump
 domain: oisin.sh 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: oisin.sh # the base hostname & protocol for your site
